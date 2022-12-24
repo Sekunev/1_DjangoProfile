@@ -17,7 +17,8 @@ What was done:
 
 ### Visualization of the Website
 
-![image](https://github.com/Sekunev/Stock-App/blob/main/src/assets/AnimationProject.gif)
+![image](<https://github.com/Sekunev/1_DjangoProfile/blob/main/assest/image%20(4).png>)
+![image](<https://github.com/Sekunev/1_DjangoProfile/blob/main/assest/image%20(5).png>)
 
 ## Project Skeleton
 
@@ -31,6 +32,8 @@ DjangoProfile
 ├── main
 │    └── [other Files]
 ├── userprofile
+│    └── [other Files]
+├── assest
 │    └── [other Files]
 │
 ├── db.sqlite3
